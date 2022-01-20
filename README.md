@@ -26,3 +26,4 @@ url = "https://<yourusername>:<your personal access token>@github.com/<yourusern
 - i personally use this script to automate / 'sync' certain repositories on multiple platforms i use. 
 - you *can* convert this as a headless push / puller (sync with remote, sync with local) script
 - do *not* share your personal access token (especially if you wish to use and/or fork this script.
+- be very specific in what files you have to ignore in your `.gitingore` files.
